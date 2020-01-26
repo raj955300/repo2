@@ -1,1 +1,2 @@
-Hi my 2nd file on git 
+Hi my 2nd file on git
+Added some text and modified. 
