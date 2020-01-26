@@ -1,2 +1,4 @@
 Hi my 2nd file on git
-Added some text and modified. 
+Added some text and modified
+
+again some changes done to see diff command function  
